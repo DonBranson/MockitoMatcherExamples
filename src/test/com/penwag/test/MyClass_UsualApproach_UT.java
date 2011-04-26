@@ -4,7 +4,6 @@ import static org.mockito.Matchers.argThat;
 import static org.mockito.Mockito.verify;
 
 import org.hamcrest.Description;
-import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.ArgumentMatcher;
